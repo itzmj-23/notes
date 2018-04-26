@@ -20,3 +20,7 @@ if(!empty($quantity)){
   echo 'empty';
 }
 ```
+
+### get form input array into PHP array
+[Stackoverflow](https://stackoverflow.com/questions/3314567/how-to-get-form-input-array-into-php-array)
+
